@@ -2,3 +2,6 @@ Hello world!!
 Things are looking good.
 
 This is the change after first commit.
+
+This is my second change.
+
